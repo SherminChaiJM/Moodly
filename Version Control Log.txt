@@ -1,0 +1,822 @@
+commit 6f0a705ef727a038020979cfab5f187bdb33ec6f
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Sep 5 18:28:57 2022 +0800
+
+    Update forumpage.html
+
+commit d414ba58fef7cd4cfbd7acb51f7d23921217aa5e
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Mon Sep 5 17:57:54 2022 +0800
+
+    Update forumpage.html
+
+commit 3089a9aeb72e0081edef9bc0e6e8ceb49e519ced
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Mon Sep 5 17:56:55 2022 +0800
+
+    Update profile.html
+
+commit 05bef2614d1fa640554ffb13ceb0441fa42ac304
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Mon Sep 5 17:43:01 2022 +0800
+
+    Update main.js
+
+commit 8625983d85ea2a1d4297d67ad3a577481313c48d
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Mon Sep 5 17:34:20 2022 +0800
+
+    Update forumpage.html
+
+commit f10fd50583049f9fba44e767fb37da8aa083f6d0
+Author: jiaying1216 <1800494E@student.tp.edu.sg>
+Date:   Mon Sep 5 17:06:30 2022 +0800
+
+    div changed
+
+commit ff25050a647a06031f76eec41827216439cdd2df
+Author: jiaying1216 <1800494E@student.tp.edu.sg>
+Date:   Mon Sep 5 17:05:08 2022 +0800
+
+    add div
+
+commit 47519438d1b358a308e72c24b6b7df0e665a401c
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Mon Sep 5 13:50:49 2022 +0800
+
+    Update forumpage.html
+
+commit 7c05b6b1ceceb9287f8bb16e4b872f1ffcdb1391
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Sep 3 19:19:28 2022 +0800
+
+    Update README.md
+
+commit 2962550a1dcb7e9e9006dd4c7af4b3e3b9b5c809
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Sep 3 19:19:15 2022 +0800
+
+    Update README.md
+
+commit cfa54027de18eebaa962c5073e630314e9a76a05
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Sep 3 19:18:53 2022 +0800
+
+    Update README.md
+
+commit 60e231ec139a252c90d1586ffef3406bdaee7485
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Sep 3 19:18:40 2022 +0800
+
+    Update README.md
+
+commit c48bf804cb0ffdd37f24ef530c1ff0c464ff1048
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Sep 3 19:17:34 2022 +0800
+
+    Create README.md
+    
+    A brief description of the web application
+
+commit 51e7e7bfacc9ccb3890b2fb21bbee168c7ac8f44
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Wed Aug 31 20:08:54 2022 +0800
+
+    Update homepage.html
+
+commit 0ea165ee016f06adf8db4b3a87c74afeb683a2d0
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Wed Aug 31 20:02:23 2022 +0800
+
+    Update tips.html
+
+commit b010397db2d53fcacfd7f53215e6623982a509ce
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Wed Aug 31 20:01:25 2022 +0800
+
+    Update profile.html
+
+commit 1bdafd283ad6b373d70b956a6e0726c8b3424b0e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Wed Aug 31 19:59:52 2022 +0800
+
+    Update journal.html
+
+commit 1533fc53009bbe32385d774c5112d6dc75dad45a
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Wed Aug 31 19:58:52 2022 +0800
+
+    Update homepage.html
+
+commit 0c986f6e9b713dbc10d3dd8b8e7af86d6d3988a1
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Wed Aug 31 19:53:24 2022 +0800
+
+    Update forumpage.html
+
+commit 268b285cb418483e2cd946177433c6a5cddaf3ca
+Merge: 947c413 b61f310
+Author: jiaying1216 <1800494E@student.tp.edu.sg>
+Date:   Wed Aug 31 15:13:20 2022 +0800
+
+    Merge branch 'main' of https://github.com/Jiaying1216/moodly
+
+commit 947c413b58a9d930489992700938f481f9a6ca2b
+Author: jiaying1216 <1800494E@student.tp.edu.sg>
+Date:   Wed Aug 31 15:12:59 2022 +0800
+
+    Update
+
+commit 6e01005f83944eb8b6f6e5eddc908179801f7b7e
+Author: jiaying1216 <1800494E@student.tp.edu.sg>
+Date:   Wed Aug 31 15:07:08 2022 +0800
+
+    updateCalendarCss
+
+commit b61f310d8687d78d4939d11b98d8fc146335b47d
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Mon Aug 29 23:51:47 2022 +0800
+
+    Added userID
+
+commit c9e34b3e581f129bc54dd59b69a42f3e17394ee5
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:17:05 2022 +0800
+
+    Update profile.html
+
+commit 7aea1f9f2f81c544d0faf7e1aeedbf5b67369440
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:16:47 2022 +0800
+
+    Update homepage.html
+
+commit d081a20d3d2f148938533fd84ffe43382dd390a8
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:15:51 2022 +0800
+
+    Update tips.html
+
+commit d3ca688cc5e4b9215c9c54863329c62dd05240ce
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:15:38 2022 +0800
+
+    Update tips.html
+
+commit 15b6de55e9d4b240fbe48e8b0b50c56a1bb79ece
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:14:53 2022 +0800
+
+    Update tips.html
+
+commit 9beaee3e770357dd8fb5b3b2c50089d1ebcbcfd8
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:13:55 2022 +0800
+
+    Update homepage.html
+
+commit 9c06cf25568bbc317b24309b09d4ffad8cb96d15
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:09:19 2022 +0800
+
+    Update signIn.html
+
+commit c040f3fdc096c5441cfef371f3c38f18c72e6beb
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:08:56 2022 +0800
+
+    Update tips.html
+
+commit a8a44ff785dcd59aed5740ea3dc1abcf3063f69e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:08:01 2022 +0800
+
+    Update profile.html
+
+commit 0745d93955c22625dea62898c79be6f3c439eaaa
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:06:49 2022 +0800
+
+    Update journal.html
+
+commit 2a33b5a8f0fe0434e9a784e6d6ba2ba4a53e3851
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:01:38 2022 +0800
+
+    Update homepage.html
+
+commit 40088e18f98efa0d8c7c07f387174c921c55da9f
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sat Aug 27 00:00:49 2022 +0800
+
+    Update main.js
+
+commit 7632407be66e35f7ace4646a39f98e5ddd26f03e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 26 23:58:32 2022 +0800
+
+    Delete style.css
+
+commit e759b84cf2821cc3c219e0c45e9a22bccf3453e3
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 26 23:58:10 2022 +0800
+
+    Adding CSS for pages
+
+commit 1c8b81ed8da979a898296fccffe50e01b5b0b782
+Author: nickhenggg <nicholaskheng@gmail.com>
+Date:   Fri Aug 26 14:38:39 2022 +0800
+
+    finalised tips
+
+commit b5ad49cc1cf351ef510909887dfede1ab31f95c8
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 12:34:11 2022 +0800
+
+    Update homepage.html
+
+commit 1602222ab0a5d23ea5d9cd6d33d8f23c977b1d65
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 12:33:55 2022 +0800
+
+    Update profile.html
+
+commit 11eaf7078ac2feb188446d48c800e634e0d8334e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 12:32:47 2022 +0800
+
+    Update profile.html
+
+commit 5c180d2d4fd5d675ab4f7c65f06b0971d90faebe
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 12:30:25 2022 +0800
+
+    Update style.css
+
+commit 2c231afb0100fcc932d004d2eece934bd493048a
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 12:28:41 2022 +0800
+
+    Update signIn.html
+
+commit dbee977691da606c2e1419ffafbab1d5908ea01b
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 12:28:13 2022 +0800
+
+    Update homepage.html
+
+commit 80fd5264df23a599700f66a0584d54371aca4831
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 12:27:28 2022 +0800
+
+    Update main.js
+
+commit 5a90ddaf9ccb648d8e051e3f02f39b4e0910d912
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:55:39 2022 +0800
+
+    Add files via upload
+
+commit a973b6dcc2cab7d6a6cd9c2e9a690b01f3976a02
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:55:07 2022 +0800
+
+    Delete welcome_page.png
+
+commit d7d33a9ade9774135ce857d3fc783ba6affac991
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:54:58 2022 +0800
+
+    Delete signIn.png
+
+commit 6d49e94e9d152d1c9e4b911317541739b63a1ca4
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:53:41 2022 +0800
+
+    Rename signIn.js to Project/public/js/signIn.js
+
+commit 18e18ab66cd63144398ba16636b309bf89760a25
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:53:29 2022 +0800
+
+    Delete signIn.js
+
+commit ce24cf8e9232520b9c0c1643543012e34be6373e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:52:59 2022 +0800
+
+    Rename signIn.html to Project/views/signIn.html
+
+commit 7f2015d692cbb9515c90392fb16eb36bcdb75470
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:52:47 2022 +0800
+
+    Delete signIn.html
+
+commit e0d2c26cfa231fef76dcebfc0265b59ccd924166
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:52:13 2022 +0800
+
+    Rename welcomepage.html to Project/views/welcomepage.html
+
+commit 5514b36b58343bbbc70f898f53274cc06555638e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:51:33 2022 +0800
+
+    Rename welcomepage.css to Project/public/css/welcomepage.css
+
+commit 0b99e799c9a9c83a98f42c7fd9fc78d8e8a9b4c0
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:50:57 2022 +0800
+
+    Rename signIn.css to Project/public/css/signIn.css
+
+commit d4e1b8462a3fa3b6f2e62e66a45e6b8f3f3fa48e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:50:03 2022 +0800
+
+    Delete signIn.css
+
+commit 14d5c9a807f25ebbfdf43c9cd2e103d6fe3bef98
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:49:19 2022 +0800
+
+    Delete main.js
+
+commit 1308827dba2cb848f77d46c0903c3a21fcf26ca4
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 22 11:49:03 2022 +0800
+
+    new sign in and welcome page
+
+commit 3ae6ce7a73de58a9f44412a1e6d6d6c84d27af55
+Merge: a4c24ed 4ff465b
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Mon Aug 22 11:15:18 2022 +0800
+
+    Merge pull request #5 from bjaztin/bjaztin-patch-4
+    
+    Bjaztin patch 4
+
+commit 4ff465b19bc63d1b008390c6effe1c5060bbe3f1
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Mon Aug 22 11:10:27 2022 +0800
+
+    new sign in and welcome page
+
+commit a4c24ed11434207e66c6ab9d3015b019188f280f
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:41:19 2022 +0800
+
+    Update main.js
+
+commit 6c999ce2d18f733c736a4c192944fb2008e56df1
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:35:41 2022 +0800
+
+    Update profile.html
+
+commit 86e26db4a331ebb4572d54aeee2f1633a2d09788
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:34:10 2022 +0800
+
+    Update homepage.html
+
+commit dccd78b3eaa144f8adc43211ba9bca8fd6d0b885
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:27:22 2022 +0800
+
+    Update main.js
+
+commit 940bd072b19ac287073330048621c80d0fc203ac
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:26:22 2022 +0800
+
+    Update style.css
+
+commit 918ec2a4b67384fb5af8833758fc2ab232e1535f
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:20:35 2022 +0800
+
+    Adding assets for homepage
+
+commit 31bbd28e93c58ae9fb950d4ceb49fafa4de3c746
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:20:06 2022 +0800
+
+    Delete assets
+
+commit de7fc5d46b1e312ab8e0a8ae2afb77256e1d778d
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:10:29 2022 +0800
+
+    Create assets
+
+commit ca5071428557ad513eea605eadd0224424099be9
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:09:29 2022 +0800
+
+    Delete proimg.png
+
+commit 4b295234a95190d5946ed7de52d932e94aea5385
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:09:23 2022 +0800
+
+    Delete carousel_4.jpg
+
+commit 894c57dd6f77c300c00dbc672d57ad5f4e447737
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:09:16 2022 +0800
+
+    Delete carousel_3.png
+
+commit 650da7ac02b1f6e2c2f74411efc0d4880841ff21
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:09:11 2022 +0800
+
+    Delete carousel_2.jpg
+
+commit 5be87c35ab65553159dc97274fc10a41efa0adde
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:09:04 2022 +0800
+
+    Delete carousel_1.jpg
+
+commit 8f85e69cb4939843f36d6cca7665098f77e7c215
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:08:35 2022 +0800
+
+    Adding assets for homepage
+
+commit c5b52b731978f7adb180eb98129ae9a5a8502411
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:08:00 2022 +0800
+
+    Delete Project/public/assets directory
+
+commit 689d1300d47ca9f036c42369adae26182bfda322
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Sun Aug 21 16:07:36 2022 +0800
+
+    Delete hotline.1.png
+
+commit aed8e7de590d8139230dad4343dc0a4e8cde24fa
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Thu Aug 18 23:38:11 2022 +0800
+
+    Adding links to the different pages in homepage
+
+commit 9836a6aa60b758ee8a0825c39fae2fa250825125
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Thu Aug 18 22:28:21 2022 +0800
+
+    Update style.css for homepage
+
+commit 067abad9fb02fe96ae5ad7190e4eeb444c52c1bd
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Thu Aug 18 22:21:29 2022 +0800
+
+    Adding assets for the tips on homepage
+
+commit c53647074fc5a4a68ff51244265aa9fd02974176
+Merge: b2d26d9 9b17713
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Thu Aug 18 22:18:30 2022 +0800
+
+    Merge pull request #4 from SherminChai/main
+    
+    Updating homepage and main.js
+
+commit 9b17713a021a32add849fff3be1e6c388c0566b4
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Thu Aug 18 22:16:50 2022 +0800
+
+    Update homepage.html
+
+commit 522e21e9a664cf8d18bcbd4c488811f581787876
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Thu Aug 18 22:15:49 2022 +0800
+
+    Update main.js for homepage
+
+commit b2d26d95c7ae02f001489d8dc71d5f9bb9b7a1ac
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 15 22:46:22 2022 +0800
+
+    Update main.js for profile page
+
+commit d3a8068d0ebf994eddfc22554e2758de00456413
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Mon Aug 15 22:44:48 2022 +0800
+
+    Update profile.html
+
+commit 84b5d6e6baae3657885a6d6905422e25c6b5531a
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Mon Aug 15 17:42:12 2022 +0800
+
+    Update signIn.html
+
+commit aaa9fe10a06c8b24f3a601de82b52cb86a055d15
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Mon Aug 15 17:41:32 2022 +0800
+
+    Update signIn.js
+
+commit 3ff8c678b9002aefa3adcdbb4319746cad06f6df
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Mon Aug 15 17:40:29 2022 +0800
+
+    Update main.js
+
+commit ec87728100754e28733d860a8256ffb14d0f98bd
+Merge: 76cf4f5 8a1da6e
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Mon Aug 15 17:36:48 2022 +0800
+
+    Merge pull request #3 from bjaztin/bjaztin-patch-3
+    
+    Add files via upload
+
+commit 8a1da6e9689bdd168eb010f8f314baaf54082c34
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Mon Aug 15 17:36:33 2022 +0800
+
+    Add files via upload
+
+commit c46b166eacea668784ca9f492fe3466bc20658ae
+Merge: 186419c c6467b7
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Sat Aug 13 23:32:42 2022 +0800
+
+    Merge branch 'main' of https://github.com/Jiaying1216/moodly
+
+commit 186419ced624a7cf31d2f92116e9e63b0ac828be
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Sat Aug 13 23:24:40 2022 +0800
+
+    Update journal and mood tracker
+
+commit c6467b7597ac2ca0f271568e6f0e947759fdf910
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Fri Aug 12 21:07:01 2022 +0800
+
+    Update mood_tracker.html
+
+commit d42e6c14173e899f401a68a839581260e311ad27
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Fri Aug 12 20:33:10 2022 +0800
+
+    Update main.js
+
+commit 80f2cb4ab608602c5b104cfac0163ad2dcc2b420
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Fri Aug 12 20:30:01 2022 +0800
+
+    Add files via upload
+
+commit e1354dc7bf6dc0f1e50b57cf2c23dbc8d0defc78
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Fri Aug 12 20:28:25 2022 +0800
+
+    Add files via upload
+
+commit b0abfa834a0377279da47e757cd92e789842bf67
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 02:02:15 2022 +0800
+
+    Update main.js
+
+commit b79f25a30c18f4d2ba36c23858006a85af1f6804
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 02:01:51 2022 +0800
+
+    Rename Project/public/js/utidateUtil.js to Project/routes/util/dateUtil.js
+
+commit bdf745429604eff6ffe50ab46e5661394595fa93
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:39:35 2022 +0800
+
+    Rename Project/views/signIn.css to Project/public/css/signIn.css
+
+commit f6cdc91b1386d48b7bd12e3a8476a6b13dd6a354
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:35:21 2022 +0800
+
+    Update main.js
+
+commit b95ef36f0b26140a028bdbfda4a77ac00ca29d38
+Merge: a05accd c46df8e
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:33:48 2022 +0800
+
+    Merge pull request #3 from SherminChai/main
+    
+    Adding in Homepage and Profile Page
+
+commit c46df8e28416436fb0a1ca1e05f0bd0465b14206
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:31:22 2022 +0800
+
+    Update index.js
+
+commit bbc2b79ee7e52cf845864deeedf9cb743893274c
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:30:30 2022 +0800
+
+    Delete profile.html
+
+commit 99eec83717b4806e111125b826cde7459d77b686
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:30:17 2022 +0800
+
+    Update profile.html
+
+commit 83d3db30466cababded900d75aed8b03c2dd02b8
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:28:57 2022 +0800
+
+    Rename Project/routes/util/utidateUtil.js to Project/public/js/utidateUtil.js
+
+commit 71eb7426de7e4f35256dba22a4de4ff35a064b60
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:27:58 2022 +0800
+
+    Rename Project/Public/js/signIn.js to Project/public/js/signIn.js
+
+commit 593a73fe01a34c149a8a678b873c3d50cd66b682
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:27:24 2022 +0800
+
+    Rename Project/routes/js/signIn.js to Project/Public/js/signIn.js
+
+commit 4de6b529af251d00984b38666cc0e4148ea22d8b
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:26:49 2022 +0800
+
+    Rename Project/signIn.js to Project/routes/js/signIn.js
+
+commit 258c99a0480d4aa4355b3aa70d8081b86e02d5dc
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:24:49 2022 +0800
+
+    Add files via upload
+    
+    Adding Homepage and Profile files
+
+commit b57590f0fbae7ed97e610f1a59101515640daf3f
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:22:54 2022 +0800
+
+    Rename Project/Public/js/dateUtil.js to Project/routes/util/utidateUtil.js
+
+commit db688cbeaf2d66431583deeb2eb56cf0203b1be6
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:19:33 2022 +0800
+
+    Delete views directory
+
+commit d6d2e7fce2a7cbe5b4826357b8ae5e3644a5d438
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:19:19 2022 +0800
+
+    Delete routes directory
+
+commit 03b3d91bc1c2c7c13cb59404366591d6bbc5e26c
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:19:07 2022 +0800
+
+    Delete public directory
+
+commit fbd120c9d30927f076ac3be2c517d9f89db05734
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:18:25 2022 +0800
+
+    Rename Project/routes/util/dateUtil.js to Project/Public/js/dateUtil.js
+
+commit 3cc4bc555d09667a160a78882d29fc449453cc4a
+Author: Shermin Chai <74152272+SherminChai@users.noreply.github.com>
+Date:   Fri Aug 12 01:13:50 2022 +0800
+
+    Add files via upload
+    
+    Adding in Homepage and Profile Page
+
+commit a05accd5ad9684ef3dc7a66d93393df5e81865b2
+Author: nickhenggg <110156336+nickhenggg@users.noreply.github.com>
+Date:   Thu Aug 11 14:36:49 2022 +0800
+
+    Add files via upload
+    
+    added tips page
+
+commit 7a9eb7e6f310567e34add33f070eba6ff8c0a307
+Author: nickhenggg <110156336+nickhenggg@users.noreply.github.com>
+Date:   Thu Aug 11 14:33:21 2022 +0800
+
+    Update main.js
+
+commit 3bee89718d66528504ee538675d3e2a926e0a3fc
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Thu Aug 11 14:27:10 2022 +0800
+
+    Delete main.js
+
+commit bc4d35d93da5f541807ddae2959cccce08883226
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Thu Aug 11 14:26:29 2022 +0800
+
+    Update main.js
+
+commit fd6a72b06f7e75ccb85eb35f21e93ae13a5a2a82
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Thu Aug 11 14:24:05 2022 +0800
+
+    Update main.js
+
+commit d36356dc1aece3f57c34f236dc53077aa95e7552
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Thu Aug 11 14:18:10 2022 +0800
+
+    Rename Project/homepage.html to Project/views/homepage.html
+
+commit bbdcc5a266c18ed3c5dd60cae46c496e1b26bb8b
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Thu Aug 11 14:17:52 2022 +0800
+
+    Delete homepage.html
+
+commit d34cd0fa7b907ae3d86f9d130587e4ded372d667
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Thu Aug 11 14:16:27 2022 +0800
+
+    Rename Project/signIn.html to Project/views/signIn.html
+
+commit 4a2b9d57931104e2778205987039207c9b804d69
+Author: Jiaying1216 <64124037+Jiaying1216@users.noreply.github.com>
+Date:   Thu Aug 11 14:15:14 2022 +0800
+
+    Rename Project/signIn.css to Project/views/signIn.css
+
+commit 6a3ef3469cc9f9ac3ad19409ed8c1a86ae073db9
+Merge: 26eb515 58b72c2
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Thu Aug 11 14:09:14 2022 +0800
+
+    Merge branch 'main' of https://github.com/Jiaying1216/moodly
+
+commit 58b72c22c2589679d62fedacf529a2ffb0fdf295
+Merge: e05fe88 76cf4f5
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Thu Aug 11 14:08:43 2022 +0800
+
+    Merge pull request #1 from bjaztin/main
+    
+    sign-in and sign up form
+
+commit 76cf4f5215cd6b16422ac361d07e5d00709f4e17
+Merge: 0f3c5a8 4a28ed1
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Thu Aug 11 14:06:37 2022 +0800
+
+    Merge pull request #2 from bjaztin/bjaztin-patch-2
+    
+    Add files via upload
+
+commit 26eb5157d72c1b0b5731d0b34900ef5fa3a36197
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Thu Aug 11 14:05:58 2022 +0800
+
+    remove comment
+
+commit 4a28ed1ccd1974e1cb0715bf54ffacfe801b4b97
+Author: bjaztin <110211588+bjaztin@users.noreply.github.com>
+Date:   Thu Aug 11 14:05:52 2022 +0800
+
+    Add files via upload
+    
+    adding sign-in and sign up
+
+commit e05fe886595c69002ffd88a87c4c54193d121e84
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Fri Aug 5 17:07:06 2022 +0800
+
+    Implemented journal page
+
+commit 0f3c5a8fe3e8f0ceb2fa1ceafe96fd272f257478
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Thu Jul 28 23:46:48 2022 +0800
+
+    Refactor
+
+commit 504c5ff3171cdd7bf15497b2a9c79e12a47d1069
+Author: zaeemsuhartono <zaeemsuhartono@gmail.com>
+Date:   Thu Jul 28 22:22:28 2022 +0800
+
+    implemented firebase
+
+commit 3a6744f263a3665b6b16765a8e170d1caf23abba
+Author: zaeemsuhartono <110156181+zaeemsuhartono@users.noreply.github.com>
+Date:   Thu Jul 28 15:03:19 2022 +0800
+
+    Add files via upload
